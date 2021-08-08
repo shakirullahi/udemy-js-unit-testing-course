@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/shakirullahi/udemy-js-unit-testing-course/issues"
   },
-  "homepage": "https://github.com/shakirullahi/udemy-js-unit-testing-course#readme"
+  "homepage": "https://github.com/shakirullahi/udemy-js-unit-testing-course#readme",
+  "devDependencies": {
+    "chai": "^4.3.4"
+  }
 }
