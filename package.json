@@ -1,0 +1,24 @@
+{
+  "name": "js-unit-testing-course",
+  "version": "1.0.0",
+  "description": "JS Unit testing course with Mocha, Chai, Sinon",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakirullahi/udemy-js-unit-testing-course.git"
+  },
+  "author": "sakirullahi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shakirullahi/udemy-js-unit-testing-course/issues"
+  },
+  "homepage": "https://github.com/shakirullahi/udemy-js-unit-testing-course#readme"
+}
